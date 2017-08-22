@@ -1,1 +1,9 @@
 /Bet/*.class
+/school/UFO/*.pkg
+/school/UFO/*.pkh
+/school/UFO/*.ctxt
+*.class
+*.beam
+/school/Traffic simulation/*.pkg
+/school/Traffic simulation/*.pkh
+/school/Traffic simulation/*.ctxt
