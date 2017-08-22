@@ -1,0 +1,1187 @@
+Close  	Event  	 	1  	X  	2
+17:15 CET Ons
+16.05.2007 	Jablonec 97 - Ceske Budejovice
+Football Czech Republic Pohar CMFS 		
+1.90 	
+3.10 	
+3.50
+17:30 CET Ons
+16.05.2007 	FC Haka - VPS
+Football Finland Veikkausliiga 	Mer 	
+1.55 	
+3.65 	
+6.25
+17:30 CET Ons
+16.05.2007 	FC Haka (0) - VPS (1)
+Football Finland Veikkausliiga, Handikapp 	Mer 	
+2.55 	
+3.65 	
+2.30
+17:30 CET Ons
+16.05.2007 	TPS - FC Lahti
+Football Finland Veikkausliiga 	Mer 	
+1.95 	
+3.30 	
+3.80
+17:30 CET Ons
+16.05.2007 	TPS (0) - FC Lahti (1)
+Football Finland Veikkausliiga, Handikapp 	Mer 	
+3.70 	
+3.90 	
+1.75
+17:30 CET Ons
+16.05.2007 	FF Jaro - FC KooTeePee
+Football Finland Veikkausliiga 	Mer 	
+2.20 	
+3.25 	
+3.15
+17:30 CET Ons
+16.05.2007 	FF Jaro (0) - FC KooTeePee (1)
+Football Finland Veikkausliiga, Handikapp 	Mer 	
+4.30 	
+4.15 	
+1.60
+17:30 CET Ons
+16.05.2007 	AC Oulu - Tampere United
+Football Finland Veikkausliiga 	Mer 	
+4.95 	
+3.65 	
+1.65
+17:30 CET Ons
+16.05.2007 	AC Oulu (1) - Tampere United (0)
+Football Finland Veikkausliiga, Handikapp 	Mer 	
+2.10 	
+3.70 	
+2.85
+17:30 CET Ons
+16.05.2007 	FC Kiisto - Norvalla FF
+Football Finland Kakkonen C 		
+1.90 	
+4.00 	
+3.00
+17:30 CET Ons
+16.05.2007 	Kings - FC Kipparit
+Football Finland Kakkonen C 		
+1.45 	
+4.45 	
+5.10
+17:30 CET Ons
+16.05.2007 	Masku - EIF
+Football Finland Kakkonen B 		
+2.70 	
+4.00 	
+2.05
+17:30 CET Ons
+16.05.2007 	Popa - Kaapo
+Football Finland Kakkonen B 		
+1.85 	
+4.00 	
+3.15
+18:00 CET Ons
+16.05.2007 	Brann - Fredrikstad
+Football Norway Tippeligaen 	Mer 	
+1.45 	
+4.10 	
+6.50
+18:00 CET Ons
+16.05.2007 	Brann (0) - Fredrikstad (1)
+Football Norway Tippeligaen, Handikapp 	Mer 	
+2.25 	
+4.00 	
+2.20
+18:00 CET Ons
+16.05.2007 	Stabæk - Odd Grenland
+Football Norway Tippeligaen 	Mer 	
+1.55 	
+3.75 	
+5.75
+18:00 CET Ons
+16.05.2007 	Stabæk (0) - Odd Grenland (1)
+Football Norway Tippeligaen, Handikapp 	Mer 	
+2.20 	
+4.00 	
+2.20
+18:00 CET Ons
+16.05.2007 	Strømsgodset - Aalesund
+Football Norway Tippeligaen 	Mer 	
+1.80 	
+3.45 	
+4.15
+18:00 CET Ons
+16.05.2007 	Strømsgodset (0) - Aalesund (1)
+Football Norway Tippeligaen, Handikapp 	Mer 	
+2.65 	
+4.00 	
+1.95
+18:00 CET Ons
+16.05.2007 	Tromsø - Lillestrøm
+Football Norway Tippeligaen 	Mer 	
+2.77 	
+3.25 	
+2.60
+18:00 CET Ons
+16.05.2007 	Tromsø (1) - Lillestrøm (0)
+Football Norway Tippeligaen, Handikapp 	Mer 	
+1.40 	
+4.10 	
+5.50
+18:00 CET Ons
+16.05.2007 	Tromsø (0) - Lillestrøm (1)
+Football Norway Tippeligaen, Handikapp 	Mer 	
+5.00 	
+4.10 	
+1.45
+18:00 CET Ons
+16.05.2007 	Viking - Lyn
+Football Norway Tippeligaen 	Mer 	
+2.50 	
+3.20 	
+2.70
+18:00 CET Ons
+16.05.2007 	Viking (0) - Lyn (1)
+Football Norway Tippeligaen, Handikapp 	Mer 	
+5.10 	
+3.80 	
+1.46
+18:00 CET Ons
+16.05.2007 	Vålerenga - Sandefjord
+Football Norway Tippeligaen 	Mer 	
+1.60 	
+3.65 	
+5.35
+18:00 CET Ons
+16.05.2007 	Vålerenga (0) - Sandefjord (1)
+Football Norway Tippeligaen, Handikapp 	Mer 	
+2.50 	
+3.90 	
+2.10
+18:00 CET Ons
+16.05.2007 	Bodø/Glimt - Tromsdalen
+Football Norway Adeccoligaen 	Mer 	
+1.25 	
+5.25 	
+9.35
+18:00 CET Ons
+16.05.2007 	Bodø/Glimt (0) - Tromsdalen (1)
+Football Norway Adeccoligaen, Handikapp 	Mer 	
+1.55 	
+3.95 	
+4.00
+18:00 CET Ons
+16.05.2007 	Ham Kam - Bryne
+Football Norway Adeccoligaen 	Mer 	
+1.90 	
+3.35 	
+3.65
+18:00 CET Ons
+16.05.2007 	Ham Kam (0) - Bryne (1)
+Football Norway Adeccoligaen, Handikapp 	Mer 	
+3.20 	
+3.90 	
+1.75
+18:00 CET Ons
+16.05.2007 	Hønefoss - Løv Ham
+Football Norway Adeccoligaen 	Mer 	
+1.45 	
+3.85 	
+6.70
+18:00 CET Ons
+16.05.2007 	Hønefoss (0) - Løv Ham (1)
+Football Norway Adeccoligaen, Handikapp 	Mer 	
+2.05 	
+4.10 	
+2.45
+18:00 CET Ons
+16.05.2007 	Kongsvinger - FK Haugesund
+Football Norway Adeccoligaen 	Mer 	
+2.40 	
+3.15 	
+2.74
+18:00 CET Ons
+16.05.2007 	Kongsvinger (0) - FK Haugesund (1)
+Football Norway Adeccoligaen, Handikapp 	Mer 	
+4.35 	
+4.00 	
+1.50
+18:00 CET Ons
+16.05.2007 	Kongsvinger (1) - FK Haugesund (0)
+Football Norway Adeccoligaen, Handikapp 	Mer 	
+1.37 	
+4.10 	
+5.75
+18:00 CET Ons
+16.05.2007 	Mandalskam - Raufoss
+Football Norway Adeccoligaen 	Mer 	
+2.15 	
+3.40 	
+3.00
+18:00 CET Ons
+16.05.2007 	Mandalskam (0) - Raufoss (1)
+Football Norway Adeccoligaen, Handikapp 	Mer 	
+4.50 	
+4.00 	
+1.50
+18:00 CET Ons
+16.05.2007 	Notodden FK - Moss
+Football Norway Adeccoligaen 	Mer 	
+2.80 	
+3.20 	
+2.35
+18:00 CET Ons
+16.05.2007 	Notodden FK (1) - Moss (0)
+Football Norway Adeccoligaen, Handikapp 	Mer 	
+1.55 	
+4.00 	
+4.25
+18:00 CET Ons
+16.05.2007 	Skeid - Molde
+Football Norway Adeccoligaen 	Mer 	
+7.00 	
+4.15 	
+1.40
+18:00 CET Ons
+16.05.2007 	Skeid (1) - Molde (0)
+Football Norway Adeccoligaen, Handikapp 	Mer 	
+2.80 	
+4.15 	
+1.85
+18:00 CET Ons
+16.05.2007 	Sparta Sarpsborg - Sogndal
+Football Norway Adeccoligaen 	Mer 	
+3.55 	
+3.60 	
+1.85
+18:00 CET Ons
+16.05.2007 	Sparta Sarpsborg (1) - Sogndal (0)
+Football Norway Adeccoligaen, Handikapp 	Mer 	
+1.75 	
+3.95 	
+3.10
+18:00 CET Ons
+16.05.2007 	FC Espoo - Musa
+Football Finland Kakkonen B 		
+1.50 	
+4.40 	
+4.60
+18:00 CET Ons
+16.05.2007 	FC Ulvila - Nasta
+Football Finland 3rd div. / Satakunta 		
+2.35 	
+4.00 	
+1.75
+18:30 CET Ons
+16.05.2007 	JIPPO/2 - SiPS
+Football Finland 3rd div. / Itä-Suomi 		
+3.00 	
+4.10 	
+1.50
+19:30 CET Ons
+16.05.2007 	Dukla Bystrica - Ruzomberok
+Football Slovakia Corgon League 		
+2.10 	
+3.10 	
+3.10
+19:30 CET Ons
+16.05.2007 	FC Nitra - Slovan Bratislava
+Football Slovakia Corgon League 		
+2.15 	
+3.15 	
+2.95
+19:45 CET Ons
+16.05.2007 	Aarau - Grasshoppers
+Football Switzerland Super League 	Mer 	
+2.70 	
+3.25 	
+2.25
+19:45 CET Ons
+16.05.2007 	Basel - FC Sion
+Football Switzerland Super League 	Mer 	
+1.40 	
+4.00 	
+6.35
+19:45 CET Ons
+16.05.2007 	St. Gallen - FC Schaffhausen
+Football Switzerland Super League 	Mer 	
+1.52 	
+3.75 	
+5.10
+19:45 CET Ons
+16.05.2007 	FC Thun - Young Boys Bern
+Football Switzerland Super League 	Mer 	
+3.50 	
+3.20 	
+1.90
+19:45 CET Ons
+16.05.2007 	Hapoel Tel Aviv - Hapoel Ashkelon
+Football Israel Cup 		
+1.35 	
+4.00 	
+7.25
+20:00 CET Ons
+16.05.2007 	Rosenborg - Start
+Football Norway Tippeligaen 	Mer 	
+1.50 	
+3.85 	
+6.25
+20:00 CET Ons
+16.05.2007 	Rosenborg (0) - Start (1)
+Football Norway Tippeligaen, Handikapp 	Mer 	
+2.25 	
+3.90 	
+2.30
+20:00 CET Ons
+16.05.2007 	Penarol Montevideo - (Neutral Ground) - Danubio FC
+Football Uruguay Top League 		
+2.50 	
+3.15 	
+2.40
+20:15 CET Ons
+16.05.2007 	FC Zürich - FC Luzern
+Football Switzerland Super League 	Mer 	
+1.24 	
+5.00 	
+8.50
+20:30 CET Ons
+16.05.2007 	Lech Poznan - Wisla Krakow
+Football Poland Ekstraklasa Cup 	Mer 	
+2.10 	
+3.10 	
+3.00
+20:45 CET Ons
+16.05.2007 	West Bromwich - Wolverhampton
+Football England Championship, Playoffs 	Mer 	
+2.00 	
+3.30 	
+3.25
+20:45 CET Ons
+16.05.2007 	Espanyol - Sevilla
+Football International UEFA Cup 	Mer 	
+4.15 	
+3.35 	
+1.77
+20:45 CET Ons
+16.05.2007 	Espanyol (1) - Sevilla (0)
+Football International UEFA Cup, Handikapp 	Mer 	
+1.80 	
+3.40 	
+3.50
+20:45 CET Ons
+16.05.2007 	Espanyol (0) - Sevilla (1)
+Football International UEFA Cup, Handikapp 	Mer 	
+10.00 	
+5.50 	
+1.18
+22:00 CET Ons
+16.05.2007 	Sport Ancash - FBC Melgar
+Football Peru Primera Division 		
+1.80 	
+3.25 	
+3.75
+00:30 CET Tor
+17.05.2007 	Defensor Sporting - Gremio
+Football International Copa Libertadores 	Mer 	
+2.25 	
+3.25 	
+2.75
+01:00 CET Tor
+17.05.2007 	Toronto FC - Houston Dynamo
+Football United States Major League Soccer 	Mer 	
+2.90 	
+3.15 	
+2.20
+01:00 CET Tor
+17.05.2007 	Toronto FC (1) - Houston Dynamo (0)
+Football United States Major League Soccer, Handikapp 	Mer 	
+1.50 	
+3.75 	
+4.50
+02:45 CET Tor
+17.05.2007 	Fluminense - Brasiliense DF
+Football Brazil Copa do Brasil 		
+1.54 	
+3.60 	
+5.10
+02:45 CET Tor
+17.05.2007 	Figueirense - Botafogo RJ
+Football Brazil Copa do Brasil 		
+2.11 	
+3.15 	
+3.00
+02:45 CET Tor
+17.05.2007 	America de Mexico - Santos FC
+Football International Copa Libertadores 	Mer 	
+2.00 	
+3.25 	
+3.25
+11:30 CET Tor
+17.05.2007 	Brøndby IF - Fortuna Hjørring
+Football Denmark Landspokalen 	Mer 	
+1.85 	
+3.55 	
+3.20
+12:00 CET Tor
+17.05.2007 	Sovo - VG 62
+Football Finland Kakkonen B 		
+1.95 	
+4.00 	
+2.90
+12:30 CET Tor
+17.05.2007 	Vitesse Arnheim - NEC Nijmegen
+Football Netherlands Intertoto Playoff 	Mer 	
+1.95 	
+3.25 	
+3.35
+12:30 CET Tor
+17.05.2007 	Vitesse Arnheim (0) - NEC Nijmegen (1)
+Football Netherlands Intertoto Playoff, Handikapp 	Mer 	
+3.85 	
+3.45 	
+1.70
+13:00 CET Tor
+17.05.2007 	HJK - IFK Mariehamn
+Football Finland Veikkausliiga 	Mer 	
+1.50 	
+3.75 	
+6.85
+13:00 CET Tor
+17.05.2007 	HJK (0) - IFK Mariehamn (1)
+Football Finland Veikkausliiga, Handikapp 	Mer 	
+2.35 	
+3.75 	
+2.45
+14:00 CET Tor
+17.05.2007 	Wilpas - HammIK
+Football Finland 3rd div. / Turku 		
+1.45 	
+4.50 	
+3.10
+14:00 CET Tor
+17.05.2007 	Kajha - YPA
+Football Finland Kakkonen C 		
+3.00 	
+4.00 	
+1.90
+14:00 CET Tor
+17.05.2007 	PUIU - Kontu
+Football Finland Kakkonen A 		
+3.00 	
+4.00 	
+1.90
+14:00 CET Tor
+17.05.2007 	LoPa - Grifk
+Football Finland Kakkonen B 		
+2.90 	
+4.00 	
+1.95
+14:00 CET Tor
+17.05.2007 	NoPS - PS 44
+Football Finland 3rd div. / Tampere 		
+1.60 	
+4.15 	
+2.60
+14:00 CET Tor
+17.05.2007 	Varde - Næsby
+Football Denmark 2nd Division West 	Mer 	
+2.25 	
+3.55 	
+2.60
+14:00 CET Tor
+17.05.2007 	Varde (0) - Næsby (1)
+Football Denmark 2nd Division West , Handikapp 	Mer 	
+5.30 	
+3.70 	
+1.45
+14:00 CET Tor
+17.05.2007 	Århus Fremad II - Sædding/Guldager
+Football Denmark Kvalrækken Pulje 3 		
+1.30 	
+4.70 	
+5.95
+14:30 CET Tor
+17.05.2007 	Dordrecht - RKC Waalwijk
+Football Netherlands Playoffs 	Mer 	
+3.20 	
+3.30 	
+2.00
+14:30 CET Tor
+17.05.2007 	FC Utrecht - Groningen
+Football Netherlands UEFA Cup Playoff 	Mer 	
+2.00 	
+3.25 	
+3.25
+14:30 CET Tor
+17.05.2007 	FC Utrecht (0) - Groningen (1)
+Football Netherlands UEFA Cup Playoff, Handikapp 	Mer 	
+4.15 	
+3.45 	
+1.65
+14:30 CET Tor
+17.05.2007 	VV Venlo - FC Den Bosch
+Football Netherlands Playoffs 	Mer 	
+2.00 	
+3.30 	
+3.20
+15:00 CET Tor
+17.05.2007 	FC København - OB
+Football Denmark Landspokalen 	Mer 	
+1.60 	
+3.70 	
+5.40
+15:00 CET Tor
+17.05.2007 	FC København - (To win the Cup) - OB
+Football Denmark Landspokalen 	Mer 	
+1.30 		
+3.10
+15:00 CET Tor
+17.05.2007 	FC København (0) - OB (1)
+Football Denmark Landspokalen, Handikapp 	Mer 	
+2.40 	
+3.60 	
+2.20
+15:00 CET Tor
+17.05.2007 	JBK - Lynx
+Football Finland Kakkonen C 		
+1.30 	
+5.10 	
+7.00
+15:00 CET Tor
+17.05.2007 	KOOVEE - IF Finströms Kamraterna
+Football Finland Kakkonen B 		
+1.95 	
+4.00 	
+2.90
+15:00 CET Tor
+17.05.2007 	KäPa - Miki
+Football Finland Kakkonen A 		
+1.40 	
+4.60 	
+5.60
+15:00 CET Tor
+17.05.2007 	WJK/2 - SC Riverball
+Football Finland 3rd div. / Itä-Suomi 		
+3.30 	
+4.00 	
+1.45
+15:00 CET Tor
+17.05.2007 	Trelleborgs FF - IF Elfsborg
+Football Sweden Allsvenskan 	Mer 	
+3.50 	
+3.25 	
+2.05
+15:00 CET Tor
+17.05.2007 	Trelleborgs FF (1) - Elfsborg (0)
+Football Sweden Allsvenskan, Handikapp 	Mer 	
+1.65 	
+3.80 	
+3.75
+15:30 CET Tor
+17.05.2007 	SV Josko Ried - Austria Wien
+Football Austria T-Mobile Bundesliga 	Mer 	
+1.80 	
+3.35 	
+3.80
+15:30 CET Tor
+17.05.2007 	SV Josko Ried (0) - Austria Wien (1)
+Football Austria T-Mobile Bundesliga, Handikapp 	Mer 	
+3.50 	
+3.60 	
+1.70
+15:30 CET Tor
+17.05.2007 	Rapid Wien - Superfund Pasching
+Football Austria T-Mobile Bundesliga 	Mer 	
+1.80 	
+3.30 	
+3.85
+15:30 CET Tor
+17.05.2007 	Rapid Wien (0) - Superfund Pasching (1)
+Football Austria T-Mobile Bundesliga, Handikapp 	Mer 	
+3.35 	
+3.50 	
+1.77
+15:30 CET Tor
+17.05.2007 	Wacker Tirol - Wustenrot Salzburg
+Football Austria T-Mobile Bundesliga 	Mer 	
+3.20 	
+3.15 	
+2.05
+15:30 CET Tor
+17.05.2007 	Wacker Tirol (1) - Wustenrot Salzburg (0)
+Football Austria T-Mobile Bundesliga, Handikapp 	Mer 	
+1.62 	
+3.65 	
+3.90
+15:30 CET Tor
+17.05.2007 	Altach - SV Mattersburg
+Football Austria T-Mobile Bundesliga 	Mer 	
+3.60 	
+3.20 	
+1.90
+15:30 CET Tor
+17.05.2007 	Altach (1) - SV Mattersburg (0)
+Football Austria T-Mobile Bundesliga, Handikapp 	Mer 	
+1.77 	
+3.65 	
+3.25
+16:00 CET Tor
+17.05.2007 	PK 35 - FC Hämeenlinna
+Football Finland Ykkönen 	Mer 	
+2.05 	
+3.40 	
+3.15
+16:00 CET Tor
+17.05.2007 	PK 35 (0) - FC Hämeenlinna (1)
+Football Finland Ykkönen, Handikapp 	Mer 	
+3.80 	
+3.95 	
+1.65
+16:00 CET Tor
+17.05.2007 	Atlantis - Klubi 04
+Football Finland Ykkönen 	Mer 	
+1.85 	
+3.45 	
+3.70
+16:00 CET Tor
+17.05.2007 	Atlantis (0) - Klubi 04 (1)
+Football Finland Ykkönen, Handikapp 	Mer 	
+3.30 	
+3.80 	
+1.80
+17:15 CET Tor
+17.05.2007 	Tescoma Zlín - Sparta Praha
+Football Czech Republic Pohar CMFS 		
+3.90 	
+3.20 	
+1.77
+17:15 CET Tor
+17.05.2007 	TKT - KaVo
+Football Finland 3rd div. / Tampere 		
+2.00 	
+4.00 	
+2.00
+17:30 CET Tor
+17.05.2007 	FCV - Säyri
+Football Finland 3rd div. / Keski-Suomi 		
+1.35 	
+3.80 	
+4.20
+17:30 CET Tor
+17.05.2007 	FC Keitelejazz - Huima
+Football Finland 3rd div. / Keski-Suomi 		
+2.10 	
+3.60 	
+2.05
+17:30 CET Tor
+17.05.2007 	FC Inter Turku - FC Honka
+Football Finland Veikkausliiga 	Mer 	
+2.35 	
+3.20 	
+2.95
+17:30 CET Tor
+17.05.2007 	FC Inter Turku (0) - FC Honka (1)
+Football Finland Veikkausliiga, Handikapp 	Mer 	
+4.65 	
+4.35 	
+1.53
+17:30 CET Tor
+17.05.2007 	Inter - Roma
+Football Italy Coppa Italia 		
+1.72 	
+3.40 	
+4.30
+17:30 CET Tor
+17.05.2007 	OLS - Närpes Kraft
+Football Finland Kakkonen C 		
+1.85 	
+4.00 	
+3.15
+17:30 CET Tor
+17.05.2007 	PS Kemi - Sepsi 78
+Football Finland Kakkonen C 		
+1.60 	
+4.40 	
+3.90
+17:30 CET Tor
+17.05.2007 	TP Seinäjoki - OPS
+Football Finland Kakkonen C 		
+2.80 	
+4.00 	
+2.00
+17:30 CET Tor
+17.05.2007 	Salpa - P Iirot
+Football Finland Kakkonen B 		
+2.00 	
+4.00 	
+2.80
+17:30 CET Tor
+17.05.2007 	KPV - GBK
+Football Finland Ykkönen 	Mer 	
+1.85 	
+3.40 	
+3.80
+17:30 CET Tor
+17.05.2007 	KPV (0) - GBK (1)
+Football Finland Ykkönen, Handikapp 	Mer 	
+3.35 	
+3.65 	
+1.80
+17:30 CET Tor
+17.05.2007 	VIFK - JJK Jyväskylä
+Football Finland Ykkönen 	Mer 	
+2.25 	
+3.35 	
+2.80
+17:30 CET Tor
+17.05.2007 	VIFK (0) - JJK Jyväskylä (1)
+Football Finland Ykkönen, Handikapp 	Mer 	
+4.15 	
+4.25 	
+1.55
+17:30 CET Tor
+17.05.2007 	TPV - PP 70
+Football Finland Ykkönen 	Mer 	
+2.40 	
+3.35 	
+2.60
+17:30 CET Tor
+17.05.2007 	TPV (0) - PP 70 (1)
+Football Finland Ykkönen, Handikapp 	Mer 	
+5.10 	
+4.15 	
+1.45
+17:30 CET Tor
+17.05.2007 	Gnistan - Warkaus JK
+Football Finland Kakkonen A 		
+1.65 	
+4.00 	
+3.90
+17:30 CET Tor
+17.05.2007 	MP - MPS
+Football Finland Kakkonen A 		
+1.65 	
+4.00 	
+3.90
+17:30 CET Tor
+17.05.2007 	FC Jyväskylä - LPS
+Football Finland Kakkonen A 		
+2.40 	
+3.85 	
+2.30
+17:30 CET Tor
+17.05.2007 	Hyps - FC Kuusankoski
+Football Finland Kakkonen A 		
+3.65 	
+4.00 	
+1.70
+18:00 CET Tor
+17.05.2007 	Pamaus - LPK
+Football Finland 3rd div. / Keski-Suomi 		
+2.80 	
+4.20 	
+1.55
+18:00 CET Tor
+17.05.2007 	KuPS - Jippo
+Football Finland Ykkönen 	Mer 	
+1.35 	
+4.50 	
+7.35
+18:00 CET Tor
+17.05.2007 	KuPS (0) - Jippo (1)
+Football Finland Ykkönen, Handikapp 	Mer 	
+1.90 	
+3.85 	
+2.85
+18:00 CET Tor
+17.05.2007 	City Stars - Rakuunat
+Football Finland Kakkonen A 		
+1.55 	
+4.40 	
+4.20
+18:00 CET Tor
+17.05.2007 	MuSa2 - KoPa
+Football Finland 3rd div. / Satakunta 		
+1.55 	
+4.20 	
+2.75
+18:00 CET Tor
+17.05.2007 	FC Tigers - FJK
+Football Finland 3rd div. / Tampere 		
+1.60 	
+4.15 	
+2.60
+20:45 CET Tor
+17.05.2007 	FC Dundalk - Kilkenny City
+Football Ireland 1st Division 		
+1.35 	
+4.05 	
+7.35
+20:45 CET Tor
+17.05.2007 	Lincoln - Bristol Rovers
+Football England League 2, Playoff 	Mer 	
+2.20 	
+3.25 	
+2.90
+01:00 CET Fre
+18.05.2007 	Cruz Azul - Pachucha
+Football Mexico Primera Division 		
+2.40 	
+3.20 	
+2.60
+02:00 CET Fre
+18.05.2007 	Chicago Fire - FC Dallas
+Football United States Major League Soccer 	Mer 	
+2.30 	
+3.15 	
+2.75
+02:00 CET Fre
+18.05.2007 	Chicago Fire (0) - FC Dallas (1)
+Football United States Major League Soccer, Handikapp 	Mer 	
+4.40 	
+3.70 	
+1.52
+02:15 CET Fre
+18.05.2007 	Boca Juniors - Libertas Asuncion
+Football International Copa Libertadores 	Mer 	
+1.48 	
+3.65 	
+6.00
+03:30 CET Fre
+18.05.2007 	America de Mexico - Guadalajara Chivas
+Football Mexico Primera Division 		
+2.20 	
+3.20 	
+2.80
+17:30 CET Fre
+18.05.2007 	NoStars - Jaro2
+Football Finland 3rd div. / Keski-Pohjanmaa 		
+2.00 	
+4.00 	
+2.00
+17:30 CET Fre
+18.05.2007 	SCR - TuTo
+Football Finland 3rd div. / Turku 		
+3.10 	
+4.50 	
+1.45
+17:30 CET Fre
+18.05.2007 	LTU - VG 62
+Football Finland 3rd div. / Turku 		
+1.30 	
+5.00 	
+3.75
+17:30 CET Fre
+18.05.2007 	LaVe - Pato
+Football Finland 3rd div. / Tampere 		
+4.60 	
+4.30 	
+1.25
+20:45 CET Fre
+18.05.2007 	Milton Keynes Dons - Shrewsbury
+Football England League 2, Playoff 	Mer 	
+1.75 	
+3.25 	
+4.30
+20:45 CET Fre
+18.05.2007 	Nottingham Forest - Yeovil
+Football England League 1, Playoff 	Mer 	
+1.75 	
+3.45 	
+4.05
+11:00 CET Lör
+19.05.2007 	TPK - JyTy
+Football Finland 3rd div. / Turku 		
+1.90 	
+4.10 	
+2.15
+13:00 CET Lör
+19.05.2007 	Blackpool - Oldham
+Football England League 1, Playoff 	Mer 	
+1.85 	
+3.30 	
+3.75
+13:00 CET Lör
+19.05.2007 	B1913 - Otterup
+Football Denmark Kvalrækken Pulje 2 		
+1.80 	
+4.10 	
+2.85
+13:30 CET Lör
+19.05.2007 	TPK 2 - PIF
+Football Finland 3rd div. / Turku 		
+4.25 	
+5.00 	
+1.25
+14:00 CET Lör
+19.05.2007 	NIK - TUS
+Football Finland 3rd div. / Keski-Pohjanmaa 		
+1.90 	
+3.65 	
+2.20
+14:00 CET Lör
+19.05.2007 	EuPa - TOVE
+Football Finland 3rd div. / Satakunta 		
+1.40 	
+4.40 	
+3.25
+14:00 CET Lör
+19.05.2007 	Loiske - TP49
+Football Finland 3rd div. / Tampere 		
+1.60 	
+4.15 	
+2.60
+14:00 CET Lör
+19.05.2007 	YlöR - Härmä
+Football Finland 3rd div. / Tampere 		
+2.10 	
+4.05 	
+1.90
+15:00 CET Lör
+19.05.2007 	Brabrand - Næstved
+Football Denmark Viasat Sport Divisionen 	Mer 	
+3.60 	
+3.45 	
+1.85
+15:00 CET Lör
+19.05.2007 	HIK - Kolding
+Football Denmark Viasat Sport Divisionen 	Mer 	
+3.65 	
+3.55 	
+1.80
+15:00 CET Lör
+19.05.2007 	PJK - VaKP
+Football Finland 3rd div. / Tampere 		
+1.90 	
+4.05 	
+2.10
+15:00 CET Lör
+19.05.2007 	Århus Fremad - Køge
+Football Denmark Viasat Sport Divisionen 	Mer 	
+3.00 	
+3.45 	
+2.05
+15:00 CET Lör
+19.05.2007 	Næsby II - Taastrup
+Football Denmark Kvalrækken Pulje 2 		
+3.10 	
+4.20 	
+1.70
+15:00 CET Lör
+19.05.2007 	FB - OKS
+Football Denmark Kvalrækken Pulje 2 		
+1.60 	
+4.35 	
+3.40
+15:00 CET Lör
+19.05.2007 	Kolding II - Korup
+Football Denmark Kvalrækken Pulje 2 		
+1.45 	
+4.40 	
+4.30
+16:00 CET Lör
+19.05.2007 	Chelsea - (Final at Wembley) - Manchester United
+Football England FA Cup 	Mer 	
+2.70 	
+3.10 	
+2.55
+16:00 CET Lör
+19.05.2007 	HammIK - FC Boda
+Football Finland 3rd div. / Turku 		
+3.35 	
+4.50 	
+1.40
+18:00 CET Lör
+19.05.2007 	AaB - Esbjerg
+Football Denmark SAS Ligaen 	Mer 	
+1.60 	
+3.70 	
+5.35
+18:00 CET Lör
+19.05.2007 	AaB (0) - Esbjerg (1)
+Football Denmark SAS Ligaen, Handikapp 	Mer 	
+2.45 	
+3.65 	
+2.15
+13:00 CET Sön
+20.05.2007 	Frem - AGF
+Football Denmark Viasat Sport Divisionen 	Mer 	
+3.90 	
+3.55 	
+1.75
+15:00 CET Sön
+20.05.2007 	Brøndby - OB
+Football Denmark SAS Ligaen 	Mer 	
+2.30 	
+3.40 	
+2.80
+15:00 CET Sön
+20.05.2007 	Brøndby (0) - OB (1)
+Football Denmark SAS Ligaen, Handikapp 	Mer 	
+4.80 	
+3.65 	
+1.50
+15:00 CET Sön
+20.05.2007 	Randers FC - Horsens
+Football Denmark SAS Ligaen 	Mer 	
+1.95 	
+3.45 	
+3.55
+15:00 CET Sön
+20.05.2007 	Randers FC (0) - Horsens (1)
+Football Denmark SAS Ligaen, Handikapp 	Mer 	
+3.70 	
+3.70 	
+1.65
+15:00 CET Sön
+20.05.2007 	Silkeborg - FC Nordsjælland
+Football Denmark SAS Ligaen 	Mer 	
+4.05 	
+3.60 	
+1.80
+15:00 CET Sön
+20.05.2007 	Silkeborg (1) - FC Nordsjælland (0)
+Football Denmark SAS Ligaen, Handikapp 	Mer 	
+1.85 	
+3.65 	
+3.00
+15:00 CET Sön
+20.05.2007 	Vejle - Fc Midtjylland
+Football Denmark SAS Ligaen 	Mer 	
+4.25 	
+3.65 	
+1.75
+15:00 CET Sön
+20.05.2007 	Vejle (1) - Fc Midtjylland (0)
+Football Denmark SAS Ligaen, Handikapp 	Mer 	
+1.90 	
+3.60 	
+2.90
+15:00 CET Sön
+20.05.2007 	Fredericia - Fremad Amager
+Football Denmark Viasat Sport Divisionen 	Mer 	
+1.45 	
+3.85 	
+6.45
+15:00 CET Sön
+20.05.2007 	SønderjyskE - Lyngby
+Football Denmark Viasat Sport Divisionen 	Mer 	
+2.90 	
+3.35 	
+2.15
+15:00 CET Sön
+20.05.2007 	AB - Ølstykke
+Football Denmark Viasat Sport Divisionen 	Mer 	
+2.05 	
+3.40 	
+3.05
+15:00 CET Sön
+20.05.2007 	Herfølge - Thisted
+Football Denmark Viasat Sport Divisionen 	Mer 	
+1.80 	
+3.55 	
+3.65
+17:00 CET Sön
+20.05.2007 	Gefle - Hammarby
+Football Sweden Allsvenskan 	Mer 	
+3.00 	
+3.20 	
+2.30
+17:00 CET Sön
+20.05.2007 	Örebro SK - Malmö FF
+Football Sweden Allsvenskan 	Mer 	
+3.90 	
+3.35 	
+1.90
+17:30 CET Sön
+20.05.2007 	Wilpas - ÅIFK
+Football Finland 3rd div. / Turku 		
+3.65 	
+4.50 	
+1.35
+17:30 CET Sön
+20.05.2007 	PAVE - LehPa
+Football Finland 3rd div. / Itä-Suomi 		
+1.45 	
+4.00 	
+3.30
+18:00 CET Sön
+20.05.2007 	Viborg - FC København
+Football Denmark SAS Ligaen 	Mer 	
+5.35 	
+3.70 	
+1.60
+18:00 CET Sön
+20.05.2007 	Viborg (1) - FC København (0)
+Football Denmark SAS Ligaen, Handikapp 	Mer 	
+2.20 	
+3.75 	
+2.35
+19:00 CET Mån
+21.05.2007 	AIK - Halmstad
+Football Sweden Allsvenskan 	Mer 	
+1.75 	
+3.45 	
+4.55
+19:00 CET Mån
+21.05.2007 	GAIS - Kalmar FF
+Football Sweden Allsvenskan 	Mer 	
+3.35 	
+3.25 	
+2.10
+18:30 CET Tis
+22.05.2007 	SC Kufu 98 - Zulimanit
+Football Finland 3rd div. / Itä-Suomi 		
+5.00 	
+4.80 	
+1.20
+19:00 CET Tis
+22.05.2007 	IF Brommapojkarna - Helsingborg
+Football Sweden Allsvenskan 	Mer 	
+3.85 	
+3.35 	
+1.90
+19:00 CET Tis
+22.05.2007 	Elfsborg - IFK Göteborg
+Football Sweden Allsvenskan 	Mer 	
+2.15 	
+3.25 	
+3.25
+20:45 CET Ons
+23.05.2007 	AC Milan - (in Athens) - Liverpool FC
+Football International Champions League 	Mer 	
+2.35 	
+3.05 	
+3.05
+20:45 CET Ons
+23.05.2007 	AC Milan - (To win CL 06/07) - Liverpool FC
+Football International Champions League 	Mer 	
+1.73 		
+2.10
+20:45 CET Ons
+23.05.2007 	AC Milan (0) - Liverpool FC (1)
+Football International Champions League, Handikapp 	Mer 	
+5.25 	
+3.80 	
+1.50
+20:45 CET Ons
+23.05.2007 	AC Milan (1) - Liverpool FC (0)
+Football International Champions League, Handikapp 	Mer 	
+1.36 	
+4.25 	
+6.50
+20:45 CET Ons
+23.05.2007 	AC Milan (2) - Liverpool FC (0)
+Football International Champions League, Handikapp 	Mer 	
+1.05 	
+10.00 	
+20.00
+20:45 CET Ons
+23.05.2007 	AC Milan (0) - Liverpool FC (2)
+Football International Champions League, Handikapp 	Mer 	
+15.00 	
+7.50 	
+1.08
+20:00 CET Lör
+02.06.2007 	Denmark - Sweden
+Football International Euro 2008-Qualification 		
+2.10 	
+3.20 	
+3.40

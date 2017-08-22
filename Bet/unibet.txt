@@ -1,0 +1,775 @@
+
+
+
+
+
+
+
+
+ 
+<html>
+<head>
+<title>Alla fotbollsoddsen Unibet Odds List se</title>
+      
+
+
+
+<link rel="stylesheet" href="styles/punterstyle.css"/>
+<script language="Javascript" src="frameCheck.js"></script>
+<style>
+body {
+    margin-top:0px;
+    margin-left:0px;
+    scrollbar-face-color:#CFDFE3;
+	scrollbar-arrow-color:#73A505;
+	scrollbar-track-color:#E8F3F6;
+	scrollbar-shadow-color:#AFC8CE;
+	scrollbar-highlight-color:#EEF3E4;
+	scrollbar-3dlight-color:#FFFFFF;
+	scrollbar-darkshadow-color:#90AEB6;
+}
+</style>
+
+<script language="JavaScript" src="js/DynAPI.js"></script>
+<META HTTP-EQUIV="content-language" CONTENT=" en, de, es, it, fr, pl, sv, fi, dk, no, nl, tr">
+<META HTTP-EQUIV="Content-Type" content="text/html; charset=UTF-8">
+
+    <META NAME="keywords" CONTENT="vadslagning på sport,vadslagning,vad/spel,spelbolag/bookmaker,sport(s),spel/spela,resultat,skattefritt,online,interaktivt,odds,singlar,listan,resultatvadslagning/resultatspel,handikappvadslagning/handikapspel,långtidsspel">
+    <META NAME="keywords" CONTENT="premier league,fa carling,fa-cupen,ligacupen,division I,division II,tyska bundesliga,spanska ligan,spanska cupen,italienska serie a,italienska serie b,italienska cupen,skotska premier league,skotska division I,allsvenskan,högsta danska ligan,danska cupen,finska ligan,holländska ligan,franska ligan,fotboll,tennis,golf,basket,nba,nfl,nhl,formela 1,bandy,innebandy,ishockey,trav,bordtennis/pingis,handboll,prognos,sportnyheter,sportevenemang">
+
+
+</head>
+<body style="margin-top:0px;margin-left:0px;">
+
+
+<!--div style="background-color:#CCCCCC;width:1px;height:800px;position:absolute;top:10px;left:1px;"></div-->
+<div id="mainPage" style="position:absolute;top:2px;left:15px;width:470px;">
+
+<!-- Prevent phishing -->
+
+
+
+</div>
+
+
+<script language="JavaScript" src="/punter/js/Layer.js"></script>
+<div id="lineDivisor" style="background-color:#CCCCCC;width:1px;height:98%;position:absolute;top:1px;left:500px;"></div>
+<div id="commersial" style="position:absolute;top:2px;left:507px;width:220px;">
+
+
+
+
+
+
+						<tr>
+							<td width="220"> 
+
+
+<table width="220" style="border-bottom: solid #FFFFFF 4px;"
+	cellpadding="0" cellspacing="0">
+	<tr>
+		<td align="center">
+		<table width="100%" cellpadding="0" cellspacing="0">
+			<tr>
+				<td>
+				<center>
+				<table width="100%" cellpadding="0" cellspacing="0">
+					<tr align="center">
+						<td>
+						<div class="flash">
+						
+						
+					    
+					  	<script type="text/javascript" src="js_text_externalizer.jsp?key=1021305"></script>
+						</div>
+						</td>
+					</tr>
+				</table>
+				</center>
+				</td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+
+
+
+ </td>
+						</tr>
+						<tr>
+							<td height="7"></td>
+						</tr>
+					
+						<tr>
+							<td width="220"> 
+
+
+
+
+<table width="220" style="border-bottom: solid #FFFFFF 4px;" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center">
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<center>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr align="center">
+    
+        <td colspan="3"><a target="main" href="TemplateMain.jsp?page=oddsList.jsp&eventGroupId=221"><img src="/images/img_adds/small_pic_ad/Sports/Football/SPA_CL_Final_2007_en.jpg" width="220" border="0"></a></td>
+    
+</tr>
+</table>
+</center>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+ </td>
+						</tr>
+						<tr>
+							<td height="7"></td>
+						</tr>
+					
+						<tr>
+							<td width="220"> 
+
+
+
+
+<table width="220" style="border-bottom: solid #FFFFFF 4px;" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center">
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<center>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr align="center">
+    
+        <td colspan="3"><a target="main" href="listLiveBets.do"><img src="/images/img_adds/small_pic_ad/Sweden/live_se.gif" width="220" border="0"></a></td>
+    
+</tr>
+</table>
+</center>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+ </td>
+						</tr>
+						<tr>
+							<td height="7"></td>
+						</tr>
+					
+						<tr>
+							<td width="220"> 
+
+
+
+
+<table width="220" style="border-bottom: solid #FFFFFF 4px;" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center">
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<center>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr align="center">
+    
+        <td colspan="3"><a target="main" href="TemplateMain.jsp?page=Article.jsp&bulletinId=7314584"><img src="/images/img_adds/small_pic_ad/Sweden/RAF_se_SPA.gif" width="220" border="0"></a></td>
+    
+</tr>
+</table>
+</center>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+ </td>
+						</tr>
+						<tr>
+							<td height="7"></td>
+						</tr>
+					
+<link rel="stylesheet" href="styles/punterstyle.css"/>
+<script language="JavaScript" src="js/DynAPI.js"></script>
+<script language="JavaScript" src="/punter/js/Layer.js"></script>
+
+<table width="222" style="border-bottom: solid #FFFFFF 4px;"
+	cellpadding="0" cellspacing="0">
+	<tr>
+		<td align="center">
+
+		<table width="222" cellpadding="0" cellspacing="0">
+			<tr>
+				<td width="222"><img
+					src="/punter/images/se/quickbet_header.gif"></td>
+			</tr>
+			<tr>
+				<td>
+				<table width="222" cellpadding="0" cellspacing="0" border="0"
+					style="border: solid #397101 1px;">
+					<tr>
+						<td height="7"></td>
+					</tr>
+					
+						<tr>
+							<td width="220"> 
+
+
+
+
+
+
+
+<table width="220" cellpadding="0" cellspacing="0" border="0">
+<tr>
+    <td><img src="/images/img_adds/quickbets/se/stallskriket.gif" width="220"></td>
+</tr>
+<tr>
+<td>
+<table width="100%" cellpadding="2" cellspacing="0" bgcolor="#F9F9F9">
+<!-- per row -->
+
+    <tr style="border-bottom: solid #dddddd 1px;">
+
+
+        <td>
+                <p id="83675_6978719" onMouseOver="openLayer('Trav-Sverige-Elitloppet<br>070527, Elitloppet - Vinnare<br>2007-05-27&nbsp;1500<br><br>',this);" onMouseOut="closeLayer();">070527, Elitloppet - Vinnare</p>
+        </td>
+
+        <td>Going Kronos</td>
+        <td style="border-left: solid #dddddd 1px;" align="right">
+        
+        <b>2.75</b>
+        
+        </td>
+    </tr>
+    <tr height="1" bgcolor="#cccccc">
+    <td colspan="3">
+    </td>
+    </tr>
+
+<tr>
+<td colspan="3" align="left" style="background-color:#E4F4D5;border: solid #dddddd 1px;">
+<table width="210" cellpadding="0" cellspacing="0">
+<tr>
+    <td align="left" width="40%"><b>Välj insats :&nbsp;</b></td>
+    <td width="20%" align="center">&nbsp;<b><u><a href="Coupon.do?action=addSuggestedBet&outcomeId=6978719&systemBet_1=50&advertisementId=83675" target="coupon" style="text-decoration: underline;">50kr</a></u></b>&nbsp;</td>
+    <td width="20%" align="center">&nbsp;<b><u><a href="Coupon.do?action=addSuggestedBet&outcomeId=6978719&systemBet_1=100&advertisementId=83675" target="coupon" style="text-decoration: underline;">100kr</a></u></b>&nbsp;</td>
+    <td width="20%" align="center">&nbsp;<b><u><a href="Coupon.do?action=addSuggestedBet&outcomeId=6978719&systemBet_1=300&advertisementId=83675" target="coupon" style="text-decoration: underline;">300kr</a></u></b>&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+
+</table>
+</td>
+</tr>
+<tr height="3">
+<td></td>
+</tr>
+</table>
+ </td>
+						</tr>
+						<tr>
+							<td height="7"></td>
+						</tr>
+					
+						<tr>
+							<td width="220"> 
+
+
+
+
+
+
+
+<table width="220" cellpadding="0" cellspacing="0" border="0">
+<tr>
+    <td><img src="/images/img_adds/quickbets/se/fjellstrom.gif" width="220"></td>
+</tr>
+<tr>
+<td>
+<table width="100%" cellpadding="2" cellspacing="0" bgcolor="#F9F9F9">
+<!-- per row -->
+
+    <tr style="border-bottom: solid #dddddd 1px;">
+
+
+        <td>
+                <a id="83799_6980682" href="#" onMouseOver="openLayer('Alla fotbollsoddsen-Champions League-Anytime Scorecast<br>Champions League-finalen 2007 - Milan-Liverpool: Resultat- och målskyttsspecial<br>2007-05-23&nbsp;2040<br><br>Klicka för att se statistik',this);" onMouseOut="closeLayer();" onClick="viewStats('534923');">Champions League-finalen 2007 - Milan-Liverpool: Resultat- och målskyttsspecial</a>
+        </td>
+
+        <td>Seedorf & Milan 1-0</td>
+        <td style="border-left: solid #dddddd 1px;" align="right">
+        
+        <b>50.0</b>
+        
+        </td>
+    </tr>
+    <tr height="1" bgcolor="#cccccc">
+    <td colspan="3">
+    </td>
+    </tr>
+
+<tr>
+<td colspan="3" align="left" style="background-color:#E4F4D5;border: solid #dddddd 1px;">
+<table width="210" cellpadding="0" cellspacing="0">
+<tr>
+    <td align="left" width="40%"><b>Välj insats :&nbsp;</b></td>
+    <td width="20%" align="center">&nbsp;<b><u><a href="Coupon.do?action=addSuggestedBet&outcomeId=6980682&systemBet_1=50&advertisementId=83799" target="coupon" style="text-decoration: underline;">50kr</a></u></b>&nbsp;</td>
+    <td width="20%" align="center">&nbsp;<b><u><a href="Coupon.do?action=addSuggestedBet&outcomeId=6980682&systemBet_1=100&advertisementId=83799" target="coupon" style="text-decoration: underline;">100kr</a></u></b>&nbsp;</td>
+    <td width="20%" align="center">&nbsp;<b><u><a href="Coupon.do?action=addSuggestedBet&outcomeId=6980682&systemBet_1=300&advertisementId=83799" target="coupon" style="text-decoration: underline;">300kr</a></u></b>&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+
+    <tr style="border-bottom: solid #dddddd 1px;">
+
+
+        <td>
+                <a id="83799_6975147" href="#" onMouseOver="openLayer('Alla fotbollsoddsen-Champions League-Matcher<br>AC Milan - Liverpool<br>2007-05-23&nbsp;2045<br><br>Klicka för att se statistik',this);" onMouseOut="closeLayer();" onClick="viewStats('529910');">AC Milan - Liverpool</a>
+        </td>
+
+        <td>1-0</td>
+        <td style="border-left: solid #dddddd 1px;" align="right">
+        
+        <b>7.25</b>
+        
+        </td>
+    </tr>
+    <tr height="1" bgcolor="#cccccc">
+    <td colspan="3">
+    </td>
+    </tr>
+
+<tr>
+<td colspan="3" align="left" style="background-color:#E4F4D5;border: solid #dddddd 1px;">
+<table width="210" cellpadding="0" cellspacing="0">
+<tr>
+    <td align="left" width="40%"><b>Välj insats :&nbsp;</b></td>
+    <td width="20%" align="center">&nbsp;<b><u><a href="Coupon.do?action=addSuggestedBet&outcomeId=6975147&systemBet_1=50&advertisementId=83799" target="coupon" style="text-decoration: underline;">50kr</a></u></b>&nbsp;</td>
+    <td width="20%" align="center">&nbsp;<b><u><a href="Coupon.do?action=addSuggestedBet&outcomeId=6975147&systemBet_1=100&advertisementId=83799" target="coupon" style="text-decoration: underline;">100kr</a></u></b>&nbsp;</td>
+    <td width="20%" align="center">&nbsp;<b><u><a href="Coupon.do?action=addSuggestedBet&outcomeId=6975147&systemBet_1=300&advertisementId=83799" target="coupon" style="text-decoration: underline;">300kr</a></u></b>&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+
+    <tr style="border-bottom: solid #dddddd 1px;">
+
+
+        <td>
+                <a id="83799_6992473" href="#" onMouseOver="openLayer('Alla fotbollsoddsen-Champions League-Matcher<br>AC Milan - Liverpool<br>2007-05-23&nbsp;2045<br><br>Klicka för att se statistik',this);" onMouseOut="closeLayer();" onClick="viewStats('529910');">AC Milan - Liverpool</a>
+        </td>
+
+        <td>1</td>
+        <td style="border-left: solid #dddddd 1px;" align="right">
+        
+        <b>2.30</b>
+        
+        </td>
+    </tr>
+    <tr height="1" bgcolor="#cccccc">
+    <td colspan="3">
+    </td>
+    </tr>
+
+<tr>
+<td colspan="3" align="left" style="background-color:#E4F4D5;border: solid #dddddd 1px;">
+<table width="210" cellpadding="0" cellspacing="0">
+<tr>
+    <td align="left" width="40%"><b>Välj insats :&nbsp;</b></td>
+    <td width="20%" align="center">&nbsp;<b><u><a href="Coupon.do?action=addSuggestedBet&outcomeId=6992473&systemBet_1=50&advertisementId=83799" target="coupon" style="text-decoration: underline;">50kr</a></u></b>&nbsp;</td>
+    <td width="20%" align="center">&nbsp;<b><u><a href="Coupon.do?action=addSuggestedBet&outcomeId=6992473&systemBet_1=100&advertisementId=83799" target="coupon" style="text-decoration: underline;">100kr</a></u></b>&nbsp;</td>
+    <td width="20%" align="center">&nbsp;<b><u><a href="Coupon.do?action=addSuggestedBet&outcomeId=6992473&systemBet_1=300&advertisementId=83799" target="coupon" style="text-decoration: underline;">300kr</a></u></b>&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+
+</table>
+</td>
+</tr>
+<tr height="3">
+<td></td>
+</tr>
+</table>
+ </td>
+						</tr>
+						<tr>
+							<td height="7"></td>
+						</tr>
+					
+
+				</table>
+			</tr>
+			</td>
+		</table>
+		</td>
+	</tr>
+</table>
+
+						<tr>
+							<td width="220"> 
+
+
+
+
+<table width="220" style="border-bottom: solid #FFFFFF 4px;" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center">
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<center>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr align="center">
+    
+        <td colspan="3"><a target="main" href="TemplateMain.jsp?page=Article.jsp&bulletinId=7479111"><img src="/images/img_adds/small_pic_ad/Sweden/WSOP_Vegas_SPA_se.gif" width="220" border="0"></a></td>
+    
+</tr>
+</table>
+</center>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+ </td>
+						</tr>
+						<tr>
+							<td height="7"></td>
+						</tr>
+					
+						<tr>
+							<td width="220"> 
+
+
+
+
+<table width="220" style="border-bottom: solid #FFFFFF 4px;" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center">
+<table width="100%" style="border: solid #cccccc 1px;" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center">
+    <table width="100%" cellpadding="0" cellspacing="0" style="background-image: url(images/campBannerBG.gif)">
+    <tr>
+        <td class="PageHead" style="padding:3px 3px 3px 3px;">Peter får se Elitloppet på plats!</td>
+    </tr>
+
+
+    
+    <tr>
+        <td class="smallBlueBold" style="padding:3px 3px 3px 3px;">
+            <a target="main" href="TemplateMain.jsp?page=Article.jsp&bulletinId=7266063">Alla som spelade minst en dubbel för 50 kr kunde vinna biljetterna til...</a>
+        </td>
+    </tr>
+    <tr height="2">
+        <td></td>
+    </tr>
+    </table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+ </td>
+						</tr>
+						<tr>
+							<td height="7"></td>
+						</tr>
+					
+						<tr>
+							<td width="220"> 
+
+
+<table width="220" style="border-bottom: solid #FFFFFF 4px;"
+	cellpadding="0" cellspacing="0">
+	<tr>
+		<td align="center">
+		<table width="100%" cellpadding="0" cellspacing="0">
+			<tr>
+				<td>
+				<center>
+				<table width="100%" cellpadding="0" cellspacing="0">
+					<tr align="center">
+						<td>
+						<div class="flash">
+						
+						
+					    
+					  	<script type="text/javascript" src="js_text_externalizer.jsp?key=21012414"></script>
+						</div>
+						</td>
+					</tr>
+				</table>
+				</center>
+				</td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+
+
+
+ </td>
+						</tr>
+						<tr>
+							<td height="7"></td>
+						</tr>
+					
+						<tr>
+							<td width="220"> 
+
+
+
+
+<table width="220" style="border-bottom: solid #FFFFFF 4px;" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center">
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<center>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr align="center">
+    
+        <td colspan="3"><a target="main" href="TemplateMain.jsp?page=oddsList.jsp&eventGroupId=284"><img src="/images/img_adds/small_pic_ad/Belgium/tennis.jpg" width="220" border="0"></a></td>
+    
+</tr>
+</table>
+</center>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+ </td>
+						</tr>
+						<tr>
+							<td height="7"></td>
+						</tr>
+					
+						<tr>
+							<td width="220"> 
+
+
+<table width="220" style="border-bottom: solid #FFFFFF 4px;"
+	cellpadding="0" cellspacing="0">
+	<tr>
+		<td align="center">
+		<table width="100%" cellpadding="0" cellspacing="0">
+			<tr>
+				<td>
+				<center>
+				<table width="100%" cellpadding="0" cellspacing="0">
+					<tr align="center">
+						<td>
+						<div class="flash">
+						
+						
+					    
+					  	<script type="text/javascript" src="js_text_externalizer.jsp?key=9168331"></script>
+						</div>
+						</td>
+					</tr>
+				</table>
+				</center>
+				</td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+
+
+
+ </td>
+						</tr>
+						<tr>
+							<td height="7"></td>
+						</tr>
+					
+						<tr>
+							<td width="220"> 
+
+
+
+
+<table width="220" style="border-bottom: solid #FFFFFF 4px;" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center">
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<center>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr align="center">
+    
+        <td colspan="3"><a target="main" href="TemplateMain.jsp?page=Article.jsp&bulletinId=7224765"><img src="/images/img_adds/small_pic_ad/Sweden/Dan_Glimne_se_SPA.jpg" width="220" border="0"></a></td>
+    
+</tr>
+</table>
+</center>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+ </td>
+						</tr>
+						<tr>
+							<td height="7"></td>
+						</tr>
+					
+						<tr>
+							<td width="220"> 
+
+
+
+
+<table width="220" style="border-bottom: solid #FFFFFF 4px;" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center">
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<center>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr align="center">
+    
+        <td colspan="3"><a target="main" href="TemplateMain.jsp?page=Article.jsp&bulletinId=6462834"><img src="/images/img_adds/small_pic_ad/All/EuropeanSportsbook06.jpg" width="220" border="0"></a></td>
+    
+</tr>
+</table>
+</center>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+ </td>
+						</tr>
+						<tr>
+							<td height="7"></td>
+						</tr>
+					
+						<tr>
+							<td width="220"> 
+
+
+
+
+<table width="220" style="border-bottom: solid #FFFFFF 4px;" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center">
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<center>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr align="center">
+    
+        <td colspan="3"><a target="main" href="TemplateMain.jsp?page=Article.jsp&bulletinId=4245970"><img src="/images/img_adds/small_pic_ad/Sweden/affiliate_se.jpg" width="220" border="0"></a></td>
+    
+</tr>
+</table>
+</center>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+ </td>
+						</tr>
+						<tr>
+							<td height="7"></td>
+						</tr>
+					
+						<tr>
+							<td width="220"> 
+
+
+
+
+<table width="220" style="border-bottom: solid #FFFFFF 4px;" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center">
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<center>
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr align="center">
+    
+        <td colspan="3"><a target="main" href="TemplateMain.jsp?page=Article.jsp&bulletinId=7190800"><img src="/images/img_adds/small_pic_ad/All/PaySol2_SPA.gif" width="220" border="0"></a></td>
+    
+</tr>
+</table>
+</center>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+ </td>
+						</tr>
+						<tr>
+							<td height="7"></td>
+						</tr>
+					
+
+<!-- Box 6 -->
+
+</div>
+<div id="statDiv" style="position:absolute;top:0px;left:0px;visibility:hidden;background-color:#E4F4D5;border:solid #397101 1px;"></div>
+<div id="refPoint"></div>
+<script language="JavaScript">init();</script>
+
+
+
+
+
+
+</body>
+</html>
