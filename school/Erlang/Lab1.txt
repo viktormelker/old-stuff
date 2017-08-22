@@ -1,0 +1,8 @@
+Q1:	Return_PID!{hit_count,NewState}
+	This means that a message will be sent to the process with PID Return_PID. The message will be the tuple {hit_count,NewState}.
+	
+Q2:	Self() is a function which gets the current process PID. It is used to make the reciever aware of where the message came from.
+
+Q3:	spawn(simple,client,[Server_PID]).
+	This line creates a new thread which runs the function 'client' with the argument '[Server_PID]'. simple only states that this funtion is located in the simple.erl file.
+	

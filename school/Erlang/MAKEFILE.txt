@@ -1,0 +1,4 @@
+simple.beam:simple.erl
+erlc-W$<
+test:simple.beam
+erl-noshell-ssimplemain300
